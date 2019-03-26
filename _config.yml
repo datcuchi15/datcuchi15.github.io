@@ -1,12 +1,12 @@
 # Site settings
-title: ĐẤT CỦ CHI TỈNH LỘ 15 CHÍNH CHỦ - A SƠN 0901188839
-email: 0901188839 - A SƠN
+title: ĐẤT THỔ CƯ CỦ CHI CHÍNH CHỦ 3000 M2 - 0901188839 - A Sơn
+email: 0901188839 - A Sơn
 description: > # this means to ignore newlines until "baseurl:"
-BÁN ĐẤT CỦ CHI CHÍNH CHỦ TẠI TỈNH LỘ 15 GIÁ 20 TỶ - A SƠN 0901188839 (CHÍNH CHỦ)
+  Đất thổ cư củ chi chính chủ 500 m2, vị trí đẹp mặt tiền Nguyễn Thị Rành, cách quốc lộ 22, cầu vượt củ chi 2 Km.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://datcuchi15.github.io/" # the base hostname & protocol for your site
-twitter_username: 0901188839 - A SƠN
-github_username:  0901188839 - A SƠN
+url: "datcuchi.github.io" # the base hostname & protocol for your site
+twitter_username: 0901188839 - A Sơn
+github_username:  0901188839 - A Sơn
 
 # Build settings
 markdown: kramdown
