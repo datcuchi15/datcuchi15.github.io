@@ -1,0 +1,22 @@
+# Site settings
+title: ĐẤT THỔ CƯ CỦ CHI CHÍNH CHỦ TỈNH LỘ 15 GIÁ 20 TỶ LH:0901188839 - A Sơn
+email: 0901188839 - A Sơn
+description: > # this means to ignore newlines until "baseurl:"
+  Đất thổ cư củ chi chính chủ tỉnh lộ 15 giá 20 tỷ
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "datcuchi15.github.io" # the base hostname & protocol for your site
+twitter_username: 0901188839 - A Sơn
+github_username:  0901188839 - A Sơn
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+job.title: "Assistant Professor"
+excerpt_separator: "<!--more-->"
+
+# SEO stuff
+# google_author: ""
+# google_site_verification: ""
+# bing_webmastertools_id: ""
