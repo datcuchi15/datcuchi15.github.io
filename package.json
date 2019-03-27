@@ -1,6 +1,6 @@
 {
     "title": "Bán đất củ chi chính  chủ",
-    "name": "BAN DAT CU CHI",
+    "name": "startbootstrap-landing-page",
     "version": "5.0.4",
     "scripts": {
         "start": "gulp watch"
