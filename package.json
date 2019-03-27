@@ -1,32 +1,35 @@
 {
-    "title": "Landing Page",
-    "name": "startbootstrap-landing-page",
+    "title": "Bán đất củ chi chính  chủ",
+    "name": "BAN DAT CU CHI",
     "version": "5.0.4",
     "scripts": {
         "start": "gulp watch"
     },
-    "description": "An HTML landing page template built with Bootstrap",
+    "description": "BÁN ĐẤT CỦ CHI CHÍNH CHỦ",
     "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
+        "cu chi",
+        "dat cu chi",
+        "ban dat cu chi",
+        "ban dat cu chi gia re",
+        "ban dat cu chi chinh chu",
+        "mua dat cu chi"
+        "mua dat cu chi gia re",
+        "mua dat cu chi chinh chu",
+        "mua ban dat cu chi"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/landing-page",
+    "homepage": "https://datcuchi15.github.io",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-landing-page/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://datcuchi15.github.io",
+        "email": "dangphamza@gmail.com"
     },
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Ban dat cu chi  (https://datcuchi15.github.io/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-landing-page.git"
+        "url": "https://datcuchi15.github.io"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.8.1",
